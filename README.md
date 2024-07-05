@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rahulrohilla05
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on frontend and any interesting project.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Code first, learn later.
