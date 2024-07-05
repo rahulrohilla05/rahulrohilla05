@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on frontend and any interesting project.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code first, learn later.
+- 💻 Tech Stack: CSS, HTML, Canva, AutoCad, Linux, Windows, C, Python, Git, Github, VS Code
